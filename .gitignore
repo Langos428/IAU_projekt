@@ -3,3 +3,4 @@ cleaner.py
 gateways.csv
 readings.csv
 units.csv
+requirements.txt
